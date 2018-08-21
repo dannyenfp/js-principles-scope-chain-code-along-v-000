@@ -1,4 +1,4 @@
-var customerName = 'bob'
+learnvar customerName = 'bob'
 const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
